@@ -14,3 +14,13 @@ Education
 * Ph.D in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-present
 * M.S. in Mechanical Engineering, Stony Brook University, 2023-2025
 * B.S. in Aerospace Engineering, Sharif University of Technology, 2017-2022
+
+News
+======
+
+*August 2025: Our paper "Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas" was accepted and published in *PLoS One*.
+*May 2025: Our paper "Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System," has been accepted for publication in the Journal of Orthopaedic Research.
+*May 2025: recieved the people's choice award at the MEC Graduate Research Symposium.
+*June 2024: Our paper "Motion Planning for Object Manipulation by Edge-Rolling" was accepted to IROS 2024.
+*October 2023: Awarded PhD Works Awards for Career Exploration (ACE).
+*August 2023:Awarded Graduate Students in STEM Leadership & Life Design Fellowship.
