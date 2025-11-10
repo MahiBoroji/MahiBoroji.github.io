@@ -9,25 +9,18 @@
 
 main:
   - title: "Publications"
-    url: https://mahiboroji.github.io//publications/
+    url: https://mahiboroji.github.io/publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: https://mahiboroji.github.io/research/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: https://mahiboroji.github.io/news/
     
   - title: "CV"
-    url: /cv/
+    url: https://mahiboroji.github.io/cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+
