@@ -48,12 +48,11 @@ This research demonstrates how combining Raman spectroscopy—a tool that reveal
 Precise replication of the preoperative surgical plan is critical in computer-assisted orthopedic surgery (CAOS) systems to ensure accurate osteotomy lines for effective tumor resection. Existing surgical guidance systems rely on cameras, fiducial markers, or fluoroscopy for bone registration and real-time tracking. 
 Thus, uncertainty due to errors in measurements, modeling, and calibration can accumulate and propagate within the CAOS system to the final resection. Quantifying such uncertainty is essential to evaluate the reliability of the system and to ensure safe surgical outcomes. 
 This paper presents an experimental methodology to estimate uncertainties of a vision-guided orthopedic surgical system. The maximum distance deviation is evaluated for five Type II pelvic tumor resections, based on the quantitative uncertainty in each resection plane, to assess the risk of tumor intrusion and ensure the adequacy of the planned surgical margins. The objective of this research is to understand the uncertainty propagation stochastically,
-to provide assessment of resection planes quantitatively in comparison with the preoperative plan, and 
-to improve surgical decision-making and accuracy for patient safety.
+to provide assessment of resection planes quantitatively in comparison with the preoperative plan, and to improve surgical decision-making and accuracy for patient safety.
  
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=90% height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/uncertainty.png" width=auto height=auto alt=""></td>
   </tr>
 </table>
