@@ -56,3 +56,6 @@ to provide assessment of resection planes quantitatively in comparison with the 
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/uncertainty.png" width=auto height=auto alt=""></td>
   </tr>
 </table>
+
+**Publication:**
+- M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
