@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-present (Thesis: A Screw Theory Framework for Robotic Manipulation and Control)
+* M.S. in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-2025 (Thesis: Development of AI for Raman Spectroscopy-Based Cancer Diagnosis)
+* B.S. in Aerospace Engineering, Sharif University of Technology, 2017-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant
+  * Stony Brook University
+  * 
+  * Supervisors: Dr. Imin Kao and Dr. Amin Fakhari
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -47,18 +47,45 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Courses
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>MEC 569: Aerial Robotic</li>
+        <li>ESE 564: Artificial Intelligence for Robotics</li>
+        <li>MEC 549: Robot Dynamics and Control</li>
+        <li>MEC 559: Mobile Robotics and Autonomous Vehicles</li>        
+        <li>ESE 568: Computer and Robot Vision</li>
+        <li>MEC 529: Introduction to Robotics: Theory and Applications</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ESE 577: Deep Learning Algorithms</li>
+        <li>ESE 590: Practical Machine Learning and AI</li>
+        <li>MEC 510: Object-Oriented Programming for Scientists</li>
+        <li>MEC 532: Vibration and Control</li>
+        <li>MEC 568: Advanced Dynamics</li>
+        <li>MEC 550: Mechatronics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+Academic Projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentoring high-school and undergraduate students: Summer 2023, Summer 2024.
+* Iranian Graduate Students Association(SBU) - Treasurer (Executive Board): June 2025 - Present
+  * Organized cultural events and orientation programs for Iranian graduate students at SBU.   
+
+Honors and Awards
+======
+* People's choice award winner at the MEC Graduate Research Symposium: May 2025.
+* Awarded PhD Works Awards for Career Exploration (ACE): October 2023.
+* Awarded Graduate Students in STEM Leadership & Life Design Fellowship: August 2023.
