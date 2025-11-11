@@ -28,7 +28,7 @@ This research demonstrates how combining Raman spectroscopy—a tool that reveal
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=480 height=360 alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/average_spectra.png" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/cnn.png" width=auto height=auto alt=""></td>
   </tr>
 </table>
