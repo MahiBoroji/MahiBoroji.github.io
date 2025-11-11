@@ -59,3 +59,7 @@ to provide assessment of resection planes quantitatively in comparison with the 
 
 **Publication:**
 - M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
+
+*Related Publications:*
+- V. Danesh, P. Arauz, M. Boroji, A. Zhu, M. Cottone, E. Gould, F. Khan, I. Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.26111#)," *Journal of orthopaedic research*, vol. 43, iss. 8, pp. 1485-1492, 2025.
+- G. He, V. Danesh, M. Boroji, A. Kermanian, P. Arauz, F. Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://shop.elsevier.com/books/handbook-of-robotic-and-image-guided-surgery/abedin-nasab/978-0-443-13912-3)," *Handbook of Robotic and Image-Guided Surgery 2nd edition, Elsevier*, ch. 37 (expected release date: November 2025).
