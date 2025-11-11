@@ -31,11 +31,10 @@ This research demonstrates how combining Raman spectroscopy—a tool that reveal
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=480 height=360 alt=""></td>
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/cnn.png" width=auto height=auto alt=""></td>
   </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/eval.png" width=auto height=auto alt=""></td>
-  </tr>
 </table>
-
+<center>
+  <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/eval.png" width=auto height=auto alt=""></td>
+</center>
 
 
 **Publication and Open-access Data**
