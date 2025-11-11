@@ -26,8 +26,15 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 * ## Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas
 This research demonstrates how combining Raman spectroscopy—a tool that reveals the biochemical fingerprint of tissues—with AI can accurately distinguish between different types of soft tissue sarcomas and normal tissues. By scanning tissue samples from seven patients and collecting thousands of Raman spectra, a custom AI model (ResNet) was trained to classify eight tissue types, achieving an overall accuracy of 97.1%. This method provides an efficient, fast, and non-invasive alternative to traditional margin-assessment techniques, which are often slow and prone to errors.
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0"> <tr> <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=480 height=360 alt=""></td> <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=auto height=auto alt=""></td> <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=auto height=auto alt=""></td> </tr> </table>
-
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Average_spectra.png" width=480 height=360 alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/cnn.png" width=auto height=auto alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/eval.png" width=auto height=auto alt=""></td>
+  </tr>
+</table>
 
 
 
