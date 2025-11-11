@@ -21,25 +21,12 @@ Work experience
   * Stony Brook University
   * 
   * Supervisors: Dr. Imin Kao and Dr. Amin Fakhari
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, MATLAB, C++
+* Frameworks: PyTorch, TensorFlow, git
+* Softwares: Geomagic, Fusion360, Gazebo
 
 Publications
 ======
@@ -53,7 +40,7 @@ Selected Courses
   <tr>
     <td>
       <ul>
-        <li>MEC 569: Aerial Robotic</li>
+        <li>MEC 569: Aerial Robotics</li>
         <li>ESE 564: Artificial Intelligence for Robotics</li>
         <li>MEC 549: Robot Dynamics and Control</li>
         <li>MEC 559: Mobile Robotics and Autonomous Vehicles</li>        
@@ -76,7 +63,10 @@ Selected Courses
 
 Academic Projects
 ======
-
+* Crazyflie Project:
+  * Developed an advanced autonomous flight system for Crazyflie drones featuring obstacle avoidance, dynamic path planning (using D* lite), and precision landing capabilities.[[report]](https://docs.google.com/presentation/d/1xa3mldBdaXYvfkTTv_e3aqU2L0KCLq8pDLhZfHjOtOo/edit?usp=sharing)[[GitHub]](https://github.com/VahidDanesh/cfpilot)
+* pandaSim Project:
+  * Developed a complete manipulation pipeline in Genesis, a physics-based simulator, integrating geometry extraction, screw motion planning, and resolved-rate motion control modules. Introduced an additional finger-level degree of freedom to enhance dexterity and manipulability, achieving 96% success in object reorientation using the Franka Emika Panda robot. [[report]](https://github.com/MahiBoroji/pandaSim/blob/master/docs/Final_Report.pdf)[[GitHub]](https://github.com/MahiBoroji/pandaSim)
 
 Service and leadership
 ======
