@@ -8,6 +8,15 @@ author_profile: true
 * ## Manipulation Planning by Exploiting Environmental Contact Using Screw Theory and Free Rotational Motion at Manipulator-Object Contact Interfaces (Ongoing Research)
 In conventional contact-aided manipulation, the assumption of rigid contact between the manipulators and the object, limits the workspace and dexterity of the manipulators, particularly, when the object approaches configurations where the end-effector must execute extreme orientations, or when the manipulators approach the joint limits or singular configurations. In order to reduce the possibility of violating the manipulators' joint limits and increase the dexterity in object manipulation while at least one point of the object remains in contact with the environment, we can allow rotational motion/slippage at the contact interfaces of the manipulators and the object.
 
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/v1.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/v4.gif" width=auto height=auto alt=""></td>
+  </tr>
+</table> 
+<center>
+    <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pivot.png" style="width: 40%; height: 40%;" alt="">
+</center>
 
 * ## Motion Planning for Object Manipulation by Edge-Rolling
 A common way to manipulate heavy objects is to maintain at least one point of the object in contact with the environment during the manipulation. When the object has a cylindrical shape or, in general, a curved edge, not only sliding and pivoting motions but also rolling the object along the edge can effectively satisfy this condition. Edge-rolling offers several advantages in terms of efficiency and maneuverability. This paper aims to develop a novel approach for approximating the prehensile edge-rolling motion on any path by a sequence of constant screw displacements, leveraging the principles of screw theory. Based on this approach, we proposed an algorithmic method for task-space-based path generation of object manipulation between two given configurations using a sequence of rolling and pivoting motions. The method is based on an optimization algorithm that takes into account the joint limitations of the robot. To validate our approach, we conducted experiments to manipulate a cylinder along linear and curved paths using the Franka Emika Panda manipulator.
