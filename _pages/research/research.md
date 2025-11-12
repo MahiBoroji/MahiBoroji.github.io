@@ -38,6 +38,10 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 ## Engineering-Medicine Research
 * ## Skin Cancer Detection Using In-Vivo Raman Spectroscopy and Machine Learning Techniques (Ongoing Research)
 This research focuses on the development of a non-invasive diagnostic approach for skin cancer detection by integrating in-vivo Raman spectroscopy with machine learning-based classification methods. Raman spectroscopy provides a molecular fingerprint of biological tissues, enabling the differentiation between healthy and malignant skin based on subtle biochemical variations. By collecting real-time spectral data through an in-vivo Raman probe, the study aims to identify diagnostic spectral features associated with different cancer types. Machine learning algorithms are employed to analyze and classify these spectra, improving diagnostic accuracy and reducing the need for invasive biopsies. 
+**Related Presentations:**
+- R. Basak, V. Danesh, M. Boroji, I. Kao, X. Qian, T. Zhang, S. Ryu, K. Mani, R. Cattel, "Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features," *AAPM 67th Annual Meeting & Exhibition*, 2025. 
+
+- M. Boroji, V. Danesh, P. Prasanna, J. Kim, X. Qian, M. Khari, K. Mani, B. Boyce, F. Khan, S. Ryu, I. Kao, R. Cattell, "Convolutional Neural Network Attention-Guided Segmentation to More Accurately Identify the Edges of Benign and Malignant Skin Tumors," *AAPM 66th Annual Meeting & Exhibition*, 2024. 
 
 * ## Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas
 This research demonstrates how combining Raman spectroscopy—a tool that reveals the biochemical fingerprint of tissues—with AI can accurately distinguish between different types of soft tissue sarcomas and normal tissues. By scanning tissue samples from seven patients and collecting thousands of Raman spectra, a custom AI model (ResNet) was trained to classify eight tissue types, achieving an overall accuracy of 97.1%. This method provides an efficient, fast, and non-invasive alternative to traditional margin-assessment techniques, which are often slow and prone to errors.
