@@ -11,8 +11,10 @@ I am a Ph.D. student in Mechanical Engineering at [Stony brook university](https
 
 Education
 ======
-* Ph.D in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-present (Thesis: A Screw Theory Framework for Robotic Manipulation and Control)
-* M.S. in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-2025 (Thesis: Development of AI for Raman Spectroscopy-Based Cancer Diagnosis)
+* Ph.D in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-present
+  * Thesis: A Screw Theory Framework for Robotic Manipulation and Control
+* M.S. in Mechanical Engineering and minor in Electrical and Computer Engineering, Stony Brook University, 2023-2025  
+  * Thesis: Development of AI for Raman Spectroscopy-Based Cancer Diagnosis
 * B.S. in Aerospace Engineering, Sharif University of Technology, 2017-2022
 
 News
