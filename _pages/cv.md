@@ -28,7 +28,7 @@ Skills
 ======
 * Programming Languages: Python, MATLAB, C++
 * Frameworks: PyTorch, TensorFlow, git
-* Softwares: Geomagic, Fusion360, Gazebo
+* Software: Geomagic, Fusion360, Gazebo
 
 Publications
 ======
