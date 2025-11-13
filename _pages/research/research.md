@@ -60,7 +60,7 @@ This research demonstrates how combining Raman spectroscopy—a tool that reveal
 
 **Publication and Open-access Data**
 - M. Boroji, V. Danesh, D. Barrera, E. Lee, P. Arauz, R. Farrell, B. Boyce, F. Khan, I. Kao, “[Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas](https://journals.plos.org/plosone/article/metrics?id=10.1371/journal.pone.0330618#viewedHeader),” *PLoS One*, vol. 20, iss. 9, 2025.
-- M. Boroji "[RamanSTS Dataset, ](https://doi.org/10.7910/DVN/NGEZPA)," *Harvard Dataverse*, 2025.
+- M. Boroji "[RamanSTS dataset, a large collection of Raman spectra of soft tissue sarcomas](https://doi.org/10.7910/DVN/NGEZPA)," *Harvard Dataverse*, 2025.
 
 * ## Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System
 Precise replication of the preoperative surgical plan is critical in computer-assisted orthopedic surgery (CAOS) systems to ensure accurate osteotomy lines for effective tumor resection. Existing surgical guidance systems rely on cameras, fiducial markers, or fluoroscopy for bone registration and real-time tracking. 
