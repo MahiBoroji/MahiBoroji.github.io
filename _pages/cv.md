@@ -21,14 +21,15 @@ Work experience
 ======
 * Graduate Research Assistant
   * Stony Brook University
-  * 
   * Supervisors: Dr. Imin Kao and Dr. Amin Fakhari
+  * Projects: Skin Cancer Diagnosis with Raman, RamanSTS, Computer Assisted Orthopaedic Surgery, ScrewPanda, Edge-Rolling
   
 Skills
 ======
 * Programming Languages: Python, MATLAB, C++
-* Frameworks: PyTorch, TensorFlow, git
-* Software: Geomagic, Fusion360, Gazebo
+* Frameworks: PyTorch, TensorFlow, git, ROS
+* Software: Geomagic, Fusion360, Windows-based Raman Environment (WiRE), Andor Solis, Gazebo, Isaac Sim, Genesis
+* Certifications & Training: Robotics Software Engineering (Udacity), AI for Medicine Specialization (Coursera), Deep Learning Specialization (Coursera)
 
 Publications
 ======
@@ -72,7 +73,9 @@ Academic Projects
 * pandaSim Project:
   * Developed a complete manipulation pipeline in Genesis, a physics-based simulator, integrating geometry extraction, screw motion planning, and resolved-rate motion control modules in Python. Introduced an additional finger-level degree of freedom to enhance dexterity and manipulability, achieving 96% success in object reorientation using the Franka Emika Panda robot. [[report]](https://github.com/MahiBoroji/pandaSim/blob/master/docs/Final_Report.pdf)[[GitHub]](https://github.com/MahiBoroji/pandaSim)
 * RRT Motion Planner for Differential Drive Robots
-* Introduction to robotics project
+  * Implemented and benchmarked advanced sampling-based motion planners for a differential-drive mobile robot, including RRT, RRT*, and Bidirectional RRT, within occupancy-grid environments. Enhanced baseline RRT performance through bidirectional tree growth, goal-biased sampling, and heuristic node-expansion strategies, followed by extensive evaluation across multiple maps to compare execution time, node efficiency, and path optimality. [report][GitHub]
+* Kinematic Modeling, Manipulability Analysis, and Trajectory Planning for Panda Robot
+  * Determination of the manipulator’s reachable workspace and identification of internal singular configurations. Comprehensive manipulability evaluation using angular- and linear-velocity manipulability ellipsoids. Joint-space and task-space trajectory planning with validation through simulation. [report][GitHub]
 
 Service and leadership
 ======
