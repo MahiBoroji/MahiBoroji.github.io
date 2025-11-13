@@ -78,7 +78,7 @@ Service and leadership
 ======
 * Mentoring high-school and undergraduate students: Summer 2023, Summer 2024.
 * Iranian Graduate Students Association(SBU) - Treasurer (Executive Board): June 2025 - Present
-  * Organized cultural events and orientation programs for Iranian graduate students at SBU.   
+  * Organizing cultural events and orientation programs for Iranian graduate students at SBU.   
 
 Honors and Awards
 ======
