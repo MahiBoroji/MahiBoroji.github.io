@@ -23,7 +23,7 @@ Work experience
 * Graduate Research Assistant
   * Stony Brook University
   * Supervisors: Dr. Imin Kao and Dr. Amin Fakhari
-  * Projects: Skin Cancer Diagnosis with Raman Spectroscopy, RamanSTS, Computer Assisted Orthopaedic Surgery, ScrewPanda, Edge-Rolling
+  * Projects: Skin Cancer Diagnosis with Raman Spectroscopy, RamanSTS, Analysis of Computer Assisted Orthopaedic Surgery Systems, ScrewPanda, Edge-Rolling
   
 Skills
 ======
