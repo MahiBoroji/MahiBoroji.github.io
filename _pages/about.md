@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D. student in Mechanical Engineering at [Stony brook university](https://www.stonybrook.edu/), working under the supervision of [Dr. Imin Kao](https://me.stonybrook.edu/people/faculty/Kao_Imin.html) and [Dr. Amin Fakhari](https://aminfakhari.github.io/).
 
-My research interests are robotic manipulation and control using screw theory, particularly in collaborative settings where humans and robot work together to perform complex tasks, and leveraging AI and machine learning techniques to advance cancer diagnostics.
+My research interests are robotic manipulation and control using screw theory, particularly in collaborative settings where humans and robot work together to perform complex tasks, as well as the application of AI and machine learning techniques to advance cancer diagnostics.
 
 
 Education
