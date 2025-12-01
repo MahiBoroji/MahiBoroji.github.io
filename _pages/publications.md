@@ -19,7 +19,7 @@ author_profile: true
 
 ## Book Chapter
 
-**B1**. G. He, V. Danesh, M. Boroji, A. Kermanian, P. Arauz, F. Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://shop.elsevier.com/books/handbook-of-robotic-and-image-guided-surgery/abedin-nasab/978-0-443-13912-3)," *Handbook of Robotic and Image-Guided Surgery 2nd edition, Elsevier*, ch. 37 (expected release date: November 2025).
+**B1**. G. He, V. Danesh, M. Boroji, A. Kermanian, P. Arauz, F. Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://shop.elsevier.com/books/handbook-of-robotic-and-image-guided-surgery/abedin-nasab/978-0-443-13912-3)," *Handbook of Robotic and Image-Guided Surgery 2nd edition, Elsevier*, ch. 37 (expected release date: December 2025).
 
 
 You can also find my articles on [my google scholar profile](https://scholar.google.com/citations?hl=en&user=7vf-xy8AAAAJ). 
