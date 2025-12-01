@@ -62,7 +62,7 @@ This research demonstrates how combining Raman spectroscopy—a tool that reveal
 - M. Boroji, V. Danesh, D. Barrera, E. Lee, P. Arauz, R. Farrell, B. Boyce, F. Khan, I. Kao, “[Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas](https://journals.plos.org/plosone/article/metrics?id=10.1371/journal.pone.0330618#viewedHeader),” *PLoS One*, vol. 20, iss. 9, 2025.
 - M. Boroji "[RamanSTS dataset, a large collection of Raman spectra of soft tissue sarcomas](https://doi.org/10.7910/DVN/NGEZPA)," *Harvard Dataverse*, 2025.
 
-* ## Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System
+* ## Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery Systems
 Precise replication of the preoperative surgical plan is critical in computer-assisted orthopedic surgery (CAOS) systems to ensure accurate osteotomy lines for effective tumor resection. Existing surgical guidance systems rely on cameras, fiducial markers, or fluoroscopy for bone registration and real-time tracking. 
 Thus, uncertainty due to errors in measurements, modeling, and calibration can accumulate and propagate within the CAOS system to the final resection. Quantifying such uncertainty is essential to evaluate the reliability of the system and to ensure safe surgical outcomes. 
 This paper presents an experimental methodology to estimate uncertainties of a vision-guided orthopedic surgical system. The maximum distance deviation is evaluated for five Type II pelvic tumor resections, based on the quantitative uncertainty in each resection plane, to assess the risk of tumor intrusion and ensure the adequacy of the planned surgical margins. The objective of this research is to understand the uncertainty propagation stochastically,
@@ -76,7 +76,7 @@ to provide assessment of resection planes quantitatively in comparison with the 
 </table>
 
 **Publication:**
-- M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
+- M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery Systems," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
 
 *Related Publications:*
 - V. Danesh, P. Arauz, M. Boroji, A. Zhu, M. Cottone, E. Gould, F. Khan, I. Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.26111#)," *Journal of orthopaedic research*, vol. 43, iss. 8, pp. 1485-1492, 2025.
