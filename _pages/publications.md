@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications
 
-**J3**. M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery System," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
+**J3**. M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery Systems," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
 
 **J2**. M. Boroji, V. Danesh, D. Barrera, E. Lee, P. Arauz, R. Farrell, B. Boyce, F. Khan, I. Kao, "[Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330618)," *PLoS One*, vol. 20, iss. 9, 2025.
 
