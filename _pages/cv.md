@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV]()
+[Download CV](https://drive.google.com/file/d/1xYNgsRp8xCVPLQtVda14PKhQKaJA_kY6/view?usp=sharing)
 
 Education
 ======
