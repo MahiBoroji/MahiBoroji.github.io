@@ -41,3 +41,12 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* =========================================================
+   Light mode only
+   ========================================================= */
+
+/* Hide the light/dark mode toggle */
+#theme-toggle {
+    display: none !important;
+}
