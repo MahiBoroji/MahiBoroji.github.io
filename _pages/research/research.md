@@ -10,9 +10,9 @@ Numerous robot–environment interaction tasks require precise compliance contro
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/EdgeRolling.png" width=480 height=360 alt=""></td>
     <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Constrained_Path.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Simulation_Control.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Frame_Schematic.png" width=480 height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Simulation_Control.gif" width=480 height=auto alt=""></td>
   </tr>
 </table>
 
