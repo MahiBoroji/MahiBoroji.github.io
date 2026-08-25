@@ -16,6 +16,9 @@ author_profile: true
 
 **C1**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://ieeexplore.ieee.org/document/10802581)," *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
+## Conference Presentations
+
+**P1**. M. Boroji, V. Danesh, N. Chakraborty, I. Kao, A. Fakhari, "Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory," Late Breaking Results Poster, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
 
 ## Book Chapter
 
