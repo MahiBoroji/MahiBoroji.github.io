@@ -5,6 +5,13 @@ author_profile: true
 ---
 
 ## Robotic Research
+* ## Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory (Ongoing Research)
+Numerous robot–environment interaction tasks require precise compliance control of the end-effector along a prescribed fixed path. This path may be defined in $\mathbb{R}^3$, involving only the end-effector position; in $SO(3)$, involving only the end-effector orientation; or in $SE(3)$, involving both position and orientation. Existing Cartesian-space impedance and admittance control approaches typically treat translational and rotational motions independently, thereby failing to capture the intrinsic coupling between position and orientation in tasks naturally defined in $SE(3)$. Consequently, an interaction control framework that explicitly accounts for this coupling is essential. In this work, we propose a unified screw-theory-based framework for admittance control of robot manipulators along arbitrary constrained paths, regardless of whether the translational and rotational motions are coupled or decoupled.
+
+**Publication:**
+- M. Boroji, V. Danesh, N. Chakraborty, I. Kao, A. Fakhari, "Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory," Late Breaking Results Poster, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
+
+
 * ## Manipulation Planning by Exploiting Environmental Contact Using Screw Theory and Free Rotational Motion at Manipulator-Object Contact Interfaces (Ongoing Research)
 In conventional contact-aided manipulation, the assumption of rigid contact between the manipulators and the object, limits the workspace and dexterity of the manipulators, particularly, when the object approaches configurations where the end-effector must execute extreme orientations, or when the manipulators approach the joint limits or singular configurations. In order to reduce the possibility of violating the manipulators' joint limits and increase the dexterity in object manipulation while at least one point of the object remains in contact with the environment, we can allow rotational motion/slippage at the contact interfaces of the manipulators and the object.
 
