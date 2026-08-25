@@ -59,8 +59,8 @@ This research focuses on the development of a non-invasive diagnostic approach f
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_schematic.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_Test.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_schematic.png" width=360 height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_Test.png" width=480 height=auto alt=""></td>
   </tr>
 </table>
 
