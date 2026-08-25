@@ -22,6 +22,7 @@ Education
 News
 ======
 
+* August 2026: Our work on "Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory" has been accepted in the *Late Breaking Results* category at *IROS 2026*.
 * April 2026: Recieved the people's choice award at the MEC Graduate Research Symposium.
 * January 2026: Our chapter "Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas" was published in Handbook of Robotic and Image-Guided Surgery.
 * August 2025: Our paper "Ex-vivo Raman spectroscopy and AI-based classification of soft tissue sarcomas" was accepted and published in *PLoS One*.
