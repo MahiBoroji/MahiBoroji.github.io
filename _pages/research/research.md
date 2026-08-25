@@ -39,10 +39,17 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 * ## Skin Cancer Detection Using In-Vivo Raman Spectroscopy and Machine Learning Techniques (Ongoing Research)
 This research focuses on the development of a non-invasive diagnostic approach for skin cancer detection by integrating in-vivo Raman spectroscopy with machine learning-based classification methods. Raman spectroscopy provides a molecular fingerprint of biological tissues, enabling the differentiation between healthy and malignant skin based on subtle biochemical variations. By collecting real-time spectral data through an in-vivo Raman probe, the study aims to identify diagnostic spectral features associated with different cancer types. Machine learning algorithms are employed to analyze and classify these spectra, improving diagnostic accuracy and reducing the need for invasive biopsies. 
 
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_schematic.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/SkinCancer_Test.png" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
 **Related Presentations:**
 - M. Boroji, V. Danesh, K. Mani, T. Zhang, P. Arauz, B. Boyce, S. Ryu, I. Kao, R. Cattell, "Assessment Skin Cancer Margins Using Raman Spectroscopy," *AAPM 68th Annual Meeting & Exhibition*, 2026. 
 
-- R. Basak, V. Danesh, M. Boroji, I. Kao, X. Qian, T. Zhang, S. Ryu, K. Mani, R. Cattel, "Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features," *AAPM 67th Annual Meeting & Exhibition*, 2025. 
+- R. Basak, V. Danesh, M. Boroji, I. Kao, X. Qian, T. Zhang, S. Ryu, K. Mani, R. Cattel, "Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features," *Medical Physics*, vol. 52, iss. 10, 2025. 
 
 - M. Boroji, V. Danesh, P. Prasanna, J. Kim, X. Qian, M. Khari, K. Mani, B. Boyce, F. Khan, S. Ryu, I. Kao, R. Cattell, "Convolutional Neural Network Attention-Guided Segmentation to More Accurately Identify the Edges of Benign and Malignant Skin Tumors," *AAPM 66th Annual Meeting & Exhibition*, 2024. 
 
