@@ -8,22 +8,16 @@ author_profile: true
 * ## Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory (Ongoing Research)
 Numerous robot–environment interaction tasks require precise compliance control of the end-effector along a prescribed fixed path. This path may be defined in $\mathbb{R}^3$, involving only the end-effector position; in $SO(3)$, involving only the end-effector orientation; or in $SE(3)$, involving both position and orientation. Existing Cartesian-space impedance and admittance control approaches typically treat translational and rotational motions independently, thereby failing to capture the intrinsic coupling between position and orientation in tasks naturally defined in $SE(3)$. Consequently, an interaction control framework that explicitly accounts for this coupling is essential. In this work, we propose a unified screw-theory-based framework for admittance control of robot manipulators along arbitrary constrained paths, regardless of whether the translational and rotational motions are coupled or decoupled.
 
-<table style="width:100%;" cellspacing="0" cellpadding="5">
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="width:33.33%; text-align:center;">
-      <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Constrained_Path.gif"
-           style="width:100%; height:auto;" alt="Constrained Path">
-    </td>
-    <td style="width:33.3%; text-align:center;">
-      <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Frame_Schematic.png"
-           style="width:80%; height:auto;" alt="Frame Schematic">
-    </td>
-    <td style="width:33.33%; text-align:center;">
-      <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Simulation_Control.gif"
-           style="width:100%; height:auto;" alt="Simulation Control">
-    </td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Constrained_Path.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Simulation_Control.gif" width=auto height=auto alt=""></td>
   </tr>
-</table>
+</table> 
+<center>
+    <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Frame_Schematic.png" style="width: 40%; height: 40%;" alt="">
+</center>
+
 
 **Publication:**
 - M. Boroji, V. Danesh, N. Chakraborty, I. Kao, A. Fakhari, "Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory," Late Breaking Results Poster, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
