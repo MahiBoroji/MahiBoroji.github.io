@@ -40,6 +40,8 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 This research focuses on the development of a non-invasive diagnostic approach for skin cancer detection by integrating in-vivo Raman spectroscopy with machine learning-based classification methods. Raman spectroscopy provides a molecular fingerprint of biological tissues, enabling the differentiation between healthy and malignant skin based on subtle biochemical variations. By collecting real-time spectral data through an in-vivo Raman probe, the study aims to identify diagnostic spectral features associated with different cancer types. Machine learning algorithms are employed to analyze and classify these spectra, improving diagnostic accuracy and reducing the need for invasive biopsies. 
 
 **Related Presentations:**
+- M. Boroji, V. Danesh, K. Mani, T. Zhang, P. Arauz, B. Boyce, S. Ryu, I. Kao, R. Cattell, "Assessment Skin Cancer Margins Using Raman Spectroscopy," *AAPM 68th Annual Meeting & Exhibition*, 2026. 
+
 - R. Basak, V. Danesh, M. Boroji, I. Kao, X. Qian, T. Zhang, S. Ryu, K. Mani, R. Cattel, "Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features," *AAPM 67th Annual Meeting & Exhibition*, 2025. 
 
 - M. Boroji, V. Danesh, P. Prasanna, J. Kim, X. Qian, M. Khari, K. Mani, B. Boyce, F. Khan, S. Ryu, I. Kao, R. Cattell, "Convolutional Neural Network Attention-Guided Segmentation to More Accurately Identify the Edges of Benign and Malignant Skin Tumors," *AAPM 66th Annual Meeting & Exhibition*, 2024. 
@@ -76,8 +78,8 @@ to provide assessment of resection planes quantitatively in comparison with the 
 </table>
 
 **Publication:**
-- M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery Systems," *IEEE Transactions on Instrumentation & Measurement*, 2025, (under review).
+- M. Boroji, V. Danesh, P. Arauz, J. Tsai, I. Kao, "Uncertainty Propagation and Quantitative Assessment of Resection Planes of Vision-Guided Orthopedic Surgery Systems," *IEEE Transactions on Instrumentation & Measurement*, 2026, (under review).
 
 *Related Publications:*
 - V. Danesh, P. Arauz, M. Boroji, A. Zhu, M. Cottone, E. Gould, F. Khan, I. Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.26111#)," *Journal of orthopaedic research*, vol. 43, iss. 8, pp. 1485-1492, 2025.
-- G. He, V. Danesh, M. Boroji, A. Kermanian, P. Arauz, F. Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://shop.elsevier.com/books/handbook-of-robotic-and-image-guided-surgery/abedin-nasab/978-0-443-13912-3)," *Handbook of Robotic and Image-Guided Surgery 2nd edition, Elsevier*, ch. 37 (expected release date: December 2025).
+- G. He, V. Danesh, M. Boroji, A. Kermanian, P. Arauz, F. Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443139123000336)," *Handbook of Robotic and Image-Guided Surgery 2nd edition, Elsevier*, ch. 37, pp. 633-644, 2026.
