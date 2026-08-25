@@ -15,7 +15,7 @@ Numerous robot–environment interaction tasks require precise compliance contro
   </tr>
 </table> 
 <center>
-    <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Frame_Schematic.png" style="width: 40%; height: 40%;" alt="">
+    <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Frame_Schematic.jpg" style="width: 40%; height: 40%;" alt="">
 </center>
 
 
