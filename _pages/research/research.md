@@ -8,6 +8,14 @@ author_profile: true
 * ## Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory (Ongoing Research)
 Numerous robot–environment interaction tasks require precise compliance control of the end-effector along a prescribed fixed path. This path may be defined in $\mathbb{R}^3$, involving only the end-effector position; in $SO(3)$, involving only the end-effector orientation; or in $SE(3)$, involving both position and orientation. Existing Cartesian-space impedance and admittance control approaches typically treat translational and rotational motions independently, thereby failing to capture the intrinsic coupling between position and orientation in tasks naturally defined in $SE(3)$. Consequently, an interaction control framework that explicitly accounts for this coupling is essential. In this work, we propose a unified screw-theory-based framework for admittance control of robot manipulators along arbitrary constrained paths, regardless of whether the translational and rotational motions are coupled or decoupled.
 
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/EdgeRolling.png" width=480 height=360 alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/EdgeRolling_BackAndForthPath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/EdgeRolling_FullCirclePath.gif" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
 **Publication:**
 - M. Boroji, V. Danesh, N. Chakraborty, I. Kao, A. Fakhari, "Path-Constrained Admittance Control for Human-Robot Interaction via Screw Theory," Late Breaking Results Poster, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
 
