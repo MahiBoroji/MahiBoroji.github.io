@@ -97,8 +97,8 @@ to provide assessment of resection planes quantitatively in comparison with the 
  
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Uncertainty.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=480 height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/Uncertainty.jpg" width=360 height=auto alt=""></td>
   </tr>
 </table>
 
